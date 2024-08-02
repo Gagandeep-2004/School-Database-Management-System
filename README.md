@@ -21,32 +21,37 @@ Queries to make these table structures are given in the Hospital.sql file which 
 
 ## Created Tables by me - 
 
-### Patient Table
+### Students Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/2f13ee12-f6cd-41eb-a5bf-99bfb4c449b7">
+![image](https://github.com/user-attachments/assets/681af5d3-7c82-42a8-ab06-7729833d3870)
 
-### Records Table
 
-<img width="812" alt="Screenshot 2024-07-15 at 11 47 01 PM" src="https://github.com/user-attachments/assets/b2fd3760-ea61-43fa-9210-fb7844789a0b">
+### Teachers Table
+
+![image](https://github.com/user-attachments/assets/1d4b8f64-25a4-44a8-95bb-9d58453adac4)
 
 ### Address Table
 
 <img width="895" alt="Screenshot 2024-07-15 at 11 46 09 PM" src="https://github.com/user-attachments/assets/8fe83e0d-971b-47c8-93e0-edf5e29cb2d6">
 
-### Doctors Table
+### Student's Info Table
 
-<img width="530" alt="Screenshot 2024-07-15 at 11 47 44 PM" src="https://github.com/user-attachments/assets/4988a62b-3069-445e-b086-451b02a49067">
+![image](https://github.com/user-attachments/assets/b08bc94e-df1b-48e4-ae40-5b0d4531e93a)
 
-### Department Table
+### Student's Subject Table
 
-<img width="346" alt="Screenshot 2024-07-15 at 11 48 01 PM" src="https://github.com/user-attachments/assets/66e359f4-16c8-45b6-9256-b1bc21d02dac">
+![image](https://github.com/user-attachments/assets/5663b95e-8a45-436a-b304-f05ed78251c9)
+
+## Coaching Table
+
+![image](https://github.com/user-attachments/assets/a9af5d16-ab37-474d-88c5-5b99456e427c)
+
 
 
 ### Uses:
 
-1. Maintain Data of large number of patients with interconnected tables.
-
-2. Get data about patients easy using queries.
+1. Maintain Data of large number of Students with interconnected tables.
+2. Get data about Students easy using queries.
 3. Can do analysis easily with SQL
 
 ### Possible Upgrades:
