@@ -2,9 +2,9 @@
 Database Tables used in our SQL localhost
 Queries to make these table structures are given in the Hospital.sql file which can be edited and executed on PopSQL.
 
-<img width="1187" alt="Screenshot 2024-07-16 at 11 09 08 AM" src="https://github.com/user-attachments/assets/301fb875-1a0e-4b78-a9f0-8d38a43abaa9">
+![image](https://github.com/user-attachments/assets/874bd37a-d36c-4bc9-a889-9e79f25cd9a4)
 
-[Link to ER Diagram](https://drawsql.app/teams/iit-k/diagrams/hospital-management-system)
+[Link to ER Diagram]([https://drawsql.app/teams/school-database-management-system/diagrams/school-database-management-system-2])
 
 ### How to Use:
 1. Clone git repositry by typing this on terminal
