@@ -8,10 +8,9 @@ Queries to make these table structures are given in the Hospital.sql file which 
 
 ### How to Use:
 1. Clone git repositry by typing this on terminal
-   ```
-   bash
+   ```bash
    git clone https://github.com/Gagandeep-2004/School-Database-Management-System.git
-  ```
+   ```
 
 2.Create a database of name "School" in your local SQL Server
 
