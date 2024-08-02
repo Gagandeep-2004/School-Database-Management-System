@@ -23,27 +23,23 @@ Queries to make these table structures are given in the Hospital.sql file which 
 
 ### Students Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/681af5d3-7c82-42a8-ab06-7729833d3870">
+![image](https://github.com/user-attachments/assets/3bac32c5-f36b-4a34-8a9e-6ca7a8313d5f)
 
 ### Teachers Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/1d4b8f64-25a4-44a8-95bb-9d58453adac4">
-
+![image](https://github.com/user-attachments/assets/8321112c-dc89-4c56-8c63-9e66f7e716ec)
 
 ### Student's Info Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/b08bc94e-df1b-48e4-ae40-5b0d4531e93a">
-
+![image](https://github.com/user-attachments/assets/a769689e-7198-488f-9ab3-18bb0c92af55)
 
 ### Student's Subject Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/5663b95e-8a45-436a-b304-f05ed78251c9">
-
+![image](https://github.com/user-attachments/assets/4be68c0d-4a97-4143-851b-b5c2743e22af)
 
 ## Coaching Table
 
-<img width="1005" alt="Screenshot 2024-07-15 at 11 47 22 PM" src="https://github.com/user-attachments/assets/a9af5d16-ab37-474d-88c5-5b99456e427c">
-
+![image](https://github.com/user-attachments/assets/8e5fe9ca-95bf-42ae-a412-94211bf15ec9)
 
 
 ### Uses:
