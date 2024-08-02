@@ -30,9 +30,6 @@ Queries to make these table structures are given in the Hospital.sql file which 
 
 ![image](https://github.com/user-attachments/assets/1d4b8f64-25a4-44a8-95bb-9d58453adac4)
 
-### Address Table
-
-<img width="895" alt="Screenshot 2024-07-15 at 11 46 09 PM" src="https://github.com/user-attachments/assets/8fe83e0d-971b-47c8-93e0-edf5e29cb2d6">
 
 ### Student's Info Table
 
