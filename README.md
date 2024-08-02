@@ -9,13 +9,12 @@ Queries to make these table structures are given in the Hospital.sql file which 
 ### How to Use:
 1. Clone git repositry by typing this on terminal
    ```bash
-   git clone https://github.com/Anandkumar8418/Hospital-Management-System.git
-   ```
-2.Create a database of name "medical" in your local SQL Server
+[   git clone https://github.com/Gagandeep-2004/School-Database-Management-System]   ```
+2.Create a database of name "School" in your local SQL Server
 
-3.Open Hospital Management System.ipynb and enter details of your SQL local host server where you created your tables.
+3.Open School-Database-Management-System.ipynb and enter details of your SQL local host server where you created your tables.
 
-4.Open Hospital.sql and execute the file on "medical" database to make the structure given above.
+4.Open School.sql and execute the file on "School" database to make the structure given above.
 
 5.Now see comments of cells after the 5th cell and run accordingly to your use.
 
